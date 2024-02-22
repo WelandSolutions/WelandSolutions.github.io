@@ -6,5 +6,6 @@ var index =
       [ "Items", "index.html#items-sec", null ]
     ] ],
     [ "Getting started", "index.html#started_sec", null ],
+    [ "API Key", "index.html#key_sec", null ],
     [ "Usage", "index.html#usage_sec", null ]
 ];

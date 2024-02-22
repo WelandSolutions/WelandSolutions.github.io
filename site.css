@@ -1,0 +1,13 @@
+html {
+    background-color: darkblue;
+    font-family: Roboto;
+    color: white;
+}
+
+.logo {
+    width: 200px;
+}
+
+.link {
+    color: white;
+}
